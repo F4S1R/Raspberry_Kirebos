@@ -1,0 +1,32 @@
+
+# Fiche des Prix Moyens pour Logiciels et Extensions Payantes
+
+## 1. Connectify
+- **Catégorie** : Point d'accès WiFi pour Windows
+- **Prix moyen** : 49,99 USD pour la version Pro (achat unique) ou 14,99 USD par mois (abonnement)
+- **Lien** : https://www.connectify.me
+- **Commentaire** : Abonnement requis pour certaines fonctionnalités.
+
+## 2. ExpressVPN
+- **Catégorie** : VPN pour sécuriser les connexions
+- **Prix moyen** : 12,95 USD par mois, ou 99,95 USD par an (abonnement)
+- **Lien** : https://www.expressvpn.com
+- **Commentaire** : Abonnement nécessaire avant l'installation.
+
+## 3. Norton Security
+- **Catégorie** : Pare-feu avancé et protection internet
+- **Prix moyen** : 39,99 USD par an (abonnement requis pour la protection complète)
+- **Lien** : https://us.norton.com/internetsecurity
+- **Commentaire** : Abonnement requis.
+
+## 4. Cisco AnyConnect
+- **Catégorie** : VPN d'entreprise et sécurité réseau
+- **Prix moyen** : Licence variable (en fonction de l'utilisation professionnelle)
+- **Lien** : https://www.cisco.com/c/en/us/products/security/anyconnect-secure-mobility-client/index.html
+- **Commentaire** : Achat de licence requis.
+
+## 5. Advanced IP Scanner (gratuit mais version pro disponible)
+- **Catégorie** : Gestion de réseau
+- **Prix moyen** : Gratuit pour la version de base, version pro disponible à partir de 29,99 USD.
+- **Lien** : https://www.advanced-ip-scanner.com
+- **Commentaire** : Version pro avec fonctionnalités avancées.

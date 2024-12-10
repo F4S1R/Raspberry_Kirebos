@@ -1,0 +1,32 @@
+
+# Price Sheet for Paid Software and Extensions
+
+## 1. Connectify
+- **Category**: WiFi hotspot for Windows
+- **Average Price**: $49.99 for Pro version (one-time purchase) or $14.99 per month (subscription)
+- **Link**: https://www.connectify.me
+- **Comment**: Subscription required for some features.
+
+## 2. ExpressVPN
+- **Category**: VPN for securing connections
+- **Average Price**: $12.95 per month or $99.95 per year (subscription)
+- **Link**: https://www.expressvpn.com
+- **Comment**: Subscription required before installation.
+
+## 3. Norton Security
+- **Category**: Advanced firewall and internet protection
+- **Average Price**: $39.99 per year (subscription required for full protection)
+- **Link**: https://us.norton.com/internetsecurity
+- **Comment**: Subscription required.
+
+## 4. Cisco AnyConnect
+- **Category**: Enterprise VPN and network security
+- **Average Price**: Variable license (depending on professional use)
+- **Link**: https://www.cisco.com/c/en/us/products/security/anyconnect-secure-mobility-client/index.html
+- **Comment**: License purchase required.
+
+## 5. Advanced IP Scanner (free but Pro version available)
+- **Category**: Network management
+- **Average Price**: Free for the basic version, Pro version available from $29.99.
+- **Link**: https://www.advanced-ip-scanner.com
+- **Comment**: Pro version with advanced features available.
